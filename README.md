@@ -16,7 +16,8 @@ Backend Web Developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
                     
-### Contact 
+### Contact 📩
 <p align="left">
-Contact with me on <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"> Linkedin</a> or by email at [olverasuarezjeff@gmail.com](mailto:olverasuarezjeff@gmail.com)
+Contact with me on <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"> Linkedin</a> or by email at 
+  <a href="mailto:olverasuarezjeff@gmail.com" target="_blank" rel="noreferrer">olverasuarezjeff@gmail.com </a>
 </p>
