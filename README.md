@@ -1,7 +1,7 @@
-Hi 👋 My name is Jefferson Olvera
+Hi, I'm Jefferson!👋
 =================================
 
-Backend developer
+Backend Web Developer
 -----------------
 
 *   🌍  I'm based in Ecuador
@@ -17,8 +17,8 @@ Backend developer
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
                     
-### Socials                                   
-<p align="left">
+### Contact                                   
+<p Connect with me  on <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"> Linkedin</a> </p>
                           
 <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
