@@ -18,7 +18,7 @@ Backend Web Developer
 </p>
                     
 ### Contact                                   
-<p Connect with me  on  </p> <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"> Linkedin</a>
+Contact with me on <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"> Linkedin</a> or by email at [olverasuarezjeff@gmail.com](mailto:olverasuarezjeff@gmail.com)
                           
 <a href="https://www.github.com/jeykoi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
