@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Experience</h2>
+<h2 align="left">💼 Experience</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🤖 RPA developer & Full Stack Developer<br>July 2024 - Present</p>
+<p align="left">🤖 RPA developer & Full Stack Developer<br> <small>July 2024 - Present</small></p>
 
 ###
 
